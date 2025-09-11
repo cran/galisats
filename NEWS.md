@@ -1,3 +1,17 @@
+# galisats 2.0.2 (2025-09-11)
+
+-   fixing error when building the PDF refman
+
+# galisats 2.0.1 (2025-08-24)
+
+-   fixing `delta_t()` function to generate a vector of values
+
+# galisats 2.0.0 (2025-08-24)
+
+-   changing the parameters of the `galsat()` function to UTC (earlier in ET)
+
+-   new function `delta_t()` returns the delta-T in units of seconds
+
 # galisats 1.0.1 (2025-07-19)
 
 -   getting rid of console entries
