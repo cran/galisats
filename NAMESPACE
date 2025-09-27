@@ -2,4 +2,5 @@
 
 export(delta_t)
 export(galsat)
+export(galsat_animate)
 importFrom(png,readPNG)
